@@ -1,6 +1,6 @@
 <?php
 /**
- * YiiBase class file.
+ * mkdir file.
  *
  * @author xiaolong 
  * @link 
